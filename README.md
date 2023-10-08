@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-![Logo](https://github.com/Delta357/Portfolio_datascience_2.0/blob/main/img/data_science_AI.jpg)
+![Logo](https://github.com/Delta357/Hackathon_nasa_2023/blob/main/img/ad.png)
 
 Hackathon Nasa 2022 - NASA in Your Neighborhood
 
