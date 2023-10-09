@@ -1,0 +1,17 @@
+truncate table CS_ZONA;
+truncate table DESC_RESP;
+truncate table DIARREIA;
+truncate table DISPNEIA;
+truncate table EVOLUCAO;
+truncate table FADIGA;
+truncate table FATOR_RISC;
+truncate table FEBRE;
+truncate table GARGANTA;
+truncate table HOSPITAL;
+truncate table PERD_OLFT;
+truncate table PERD_PALA;
+truncate table PNEUMOPATI;
+truncate table SATURACAO;
+truncate table TOSSE;
+truncate table UTI;
+truncate table VOMITO;
