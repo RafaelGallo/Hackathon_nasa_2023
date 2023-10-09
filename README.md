@@ -90,6 +90,18 @@ The interactive dashboard created in Power BI is published on the web, making it
 
 Anyone accessing the dashboard link can view the data and interact with visualizations to gain information about air quality and its relationship with health.
 
+## Dashboard
+["Dashboard"](https://app.powerbi.com/view?r=eyJrIjoiNGNhYmEzYmEtOTNjNy00ZDg2LWIzOTMtOTA3YzExZGFhNmJlIiwidCI6Ijg2Yjg2ZTYzLTUzYWEtNDMyZS1hZTI3LTcxNjY4MDgxMTI3ZSJ9)
+
+## Presentation
+["Presentation"](https://github.com/Delta357/Hackathon_nasa_2023/blob/main/doc/Apresenta%C3%A7%C3%A3o%20moderna%20preta%20com%20relat%C3%B3rio%20de%20resultados%20de%20marketing.pdf)
+
+## Notebook Python
+["Notebook_ETL_Python"](https://github.com/Delta357/Hackathon_nasa_2023/blob/main/notebook/Health-and-Air-Quality-in-Sao-Paulo-An-Integrated-Analysis.ipynb)
+
+## SQL
+["SQL"](https://github.com/Delta357/Hackathon_nasa_2023/blob/main/SQL/tables.sql)
+
 ## Key Project Benefits
 
 Visualization of relationships between diseases and air quality: Integrated analysis allows for a clear and objective visualization of the relationships between air quality and the occurrence of respiratory diseases. Geographic mapping of areas most affected by poor air quality and related diseases. Statistical analyses highlighting correlations between atmospheric pollutants and diseases. Predictions and estimates using machine learning techniques to identify future trends in air quality and health impacts.
